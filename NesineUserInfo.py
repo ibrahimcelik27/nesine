@@ -1,2 +1,2 @@
-usernema ="12353366"
-password ="Umut1357"
+usernema ="kullanıcı adı girin"
+password ="şifrenizi girin"
