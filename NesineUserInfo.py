@@ -1,2 +1,2 @@
-usernema ="kullanıcı adı girin"
+username ="kullanıcı adı girin"
 password ="şifrenizi girin"
